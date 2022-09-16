@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/co.edu.co.Enum/co.edu.co.Enum.iml" filepath="$PROJECT_DIR$/co.edu.co.Enum/co.edu.co.Enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/subir_repo.iml" filepath="$PROJECT_DIR$/subir_repo.iml" />
     </modules>
   </component>
